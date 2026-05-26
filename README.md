@@ -1,12 +1,12 @@
 <div align="center">
 
-  <h3><samp>About Me</samp></h3>
+  <h2><samp>About Panxi39</samp></h2>
 
-  <p>
+  <h3>
     <samp>💻 Pure computer enthusiast.</samp><br />
     <samp>⚙️ C & Assembly lover, coroutine and zero-copy lover.</samp><br />
-    <samp>🛡️ Please protect humans from AI slop.</samp><br />
-  </p>
+    <samp>🛡️ Please protect humans from AI slop.</samp>
+  </h3>
 
   <h4><samp>Languages</samp></h4>
   <p>
